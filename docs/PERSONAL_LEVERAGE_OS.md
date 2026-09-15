@@ -57,6 +57,26 @@ NEXT MONEY TEST=
 BLOCKER=
 ```
 
+## Current Institutional Conversion Sprint
+
+### Primary target: Agent Evaluation Science Fall 2026
+
+**Why this target:** the call explicitly accepts ongoing work, evaluation studies, audits, failure analyses, tools/datasets, production lessons and real-world evaluation cases. SABLE's existing reliability evidence fits the stated scientific scope without requiring a new benchmark feature.
+
+**Current instrument:** 2-page extended abstract
+
+**Working title:** *From Agent Claims to Verifiable Execution Evidence: Cross-Runtime Reliability Failures and Independent Reconstruction*
+
+**Deadlines:** abstract registration October 20, 2026; full submission October 25, 2026.
+
+**Current state:** `SUBMISSION_CANDIDATE`
+
+**Repository draft:** `sable-agent-reliability/docs/institutional/AGENT_EVALUATION_SCIENCE_2026_EXTENDED_ABSTRACT.md`
+
+**Institutional ledger:** `sable-agent-reliability/docs/institutional/INSTITUTIONAL_OPPORTUNITY_LEDGER.md`
+
+**Critical rule:** an open call or completed application does **not** count as `INSTITUTION >= 1`. Count only a concrete external interaction such as a submission receipt, organizer response, interview, sponsorship, collaboration invitation, accepted contribution or equivalent institutional commitment.
+
 ## 1. Personal Global Identity OS
 
 Canonical identity:
