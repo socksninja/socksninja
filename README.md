@@ -30,6 +30,14 @@ A decision engine designed to convert opportunities into explicit actions rather
 **ESYRA — AI Opportunity Intelligence**  
 An AI opportunity-intelligence concept focused on discovering, evaluating, and prioritizing commercial opportunities from fragmented information.
 
+## Personal Leverage OS
+
+The operating system above individual projects: **Reality / Network / Money / Identity / Institution / Mobility / Ownership**.
+
+- **Personal Leverage OS:** [docs/PERSONAL_LEVERAGE_OS.md](docs/PERSONAL_LEVERAGE_OS.md)
+- Daily rule: **no external reality → no additional internal complexity**
+- Current phase: **Connector → Independent Execution → Paid Pilot → Institutional Opportunity → Runway**
+
 ## What I’m Building Toward
 
 **Reliable AI Agents → Embodied AI → Human-AI Interaction → Neurotechnology**
