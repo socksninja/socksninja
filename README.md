@@ -22,6 +22,10 @@ Building a cross-runtime, independently verifiable evidence layer for AI agent e
 
 **Repository:** https://github.com/socksninja/sable-agent-reliability
 
+**External execution:** Have a real agent runtime? Run one harmless task through the [one-screen external operator guide](https://github.com/socksninja/sable-agent-reliability/blob/main/docs/EXTERNAL_OPERATOR_ONE_SCREEN.md). No SABLE adoption or endorsement required.
+
+**Paid founding pilot:** US$100 fixed for one real workflow + one runtime + one reliability question + one evidence audit. Public or private execution is fine.
+
 ### Selected Earlier Work
 
 **ORION — AI Signal Intelligence System**  
@@ -34,7 +38,7 @@ An AI opportunity-intelligence concept focused on discovering, evaluating, and p
 
 The operating system above individual projects: **Reality / Network / Money / Identity / Institution / Mobility / Ownership**.
 
-- **Personal Leverage OS:** [docs/PERSONAL_LEVERAGE_OS.md](docs/PERSONAL_LEVERAGE_OS.md)
+- **Personal Leverage OS:** [docs/PERSONAL_LEVERAGE_OS.md](https://github.com/socksninja/sable-agent-reliability/blob/main/docs/PERSONAL_LEVERAGE_OS.md)
 - Daily rule: **no external reality → no additional internal complexity**
 - Current phase: **Connector → Independent Execution → Paid Pilot → Institutional Opportunity → Runway**
 
